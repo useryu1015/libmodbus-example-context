@@ -4,9 +4,9 @@
 
 
 ## Usage
-cd server_test; make; ./proc_test
-cd client_test; make; ./proc_test
-echo "rtu_master_test"
+> cd server_test; make; ./proc_test
+> cd client_test; make; ./proc_test
+> echo "rtu_master_test"
 
 
 ## 面试问题
